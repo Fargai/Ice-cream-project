@@ -1,0 +1,10 @@
+import './js/slider.js';
+import './js/modal.js';
+import './js/burger.js';
+import './js/scroll';
+import './js/headerShadow';
+import './js/disabledBtn-buy-now';
+import './js/disabledBtn-ingredients-one';
+import './js/disabledBtn-ingredients-two';
+import './js/disabledBtn-ingredients-three';
+import './js/disabledBtn-franchise';
